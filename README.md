@@ -180,7 +180,7 @@ Example: `GET /api/students?course=Computer Science&page=0&size=5&sortBy=age&dir
 
 ## Testing
 
-A Postman collection is included in the `postman/` folder. Import it into Postman to test all endpoints.
+A Postman collection is included in the `Postman/` folder. Import it into Postman to test all endpoints.
 
 ## Future Improvements
 
